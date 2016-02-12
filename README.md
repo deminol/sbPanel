@@ -1,3 +1,4 @@
 # sbPanel
-Scoreboard style panel view jQuery plugin
-Docs comming soon
+Scoreboard style view panel jQuery plugin
+
+Docs coming soon
